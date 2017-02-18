@@ -2,9 +2,9 @@ function Mostrar()
 {
 
 	var sexo = prompt("ingrese f ó m .");
-	while(sexo=f ó m)
+	while(sexo!="m" && sexo!="f")
 	{
-		
+		sexo = prompt("reingrese f ó m .");
 
 	}
 

@@ -1,10 +1,10 @@
 function Mostrar()
 {
-	var cont=0;
-	while(cont<10)
+	var cont=10;
+	while(cont>0)
 		{
 			//cont=cont-1;
-			cont ++;
+			cont --;
 			document.write("numero"+cont+"<br>")
 
 			//alert('');

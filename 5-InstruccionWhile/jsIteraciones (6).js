@@ -3,14 +3,16 @@ function Mostrar()
 
 	var contador=0;
 	var acumulador=0;
+	var promedio;
+	var numero;
 
 
-	while(contador>5)
+	while(contador<5)
 	{
 		contador++;
 		numero=prompt("numero");
 		numero=parseInt(numero);
-		acumulador=acumulador+numero;
+		acumulador=numero+acumulador;
 
 	}
 	
