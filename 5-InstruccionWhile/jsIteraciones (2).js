@@ -5,7 +5,7 @@ function Mostrar()
 		{
 			//cont=cont-1;
 			cont ++;
-			document.write("numero"+contador+"<br>")
+			document.write("numero"+cont+"<br>")
 
 			//alert('');
 		}

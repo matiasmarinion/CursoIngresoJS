@@ -6,10 +6,12 @@ function Mostrar()
 		//cont=cont+1;
 		cont ++;
 		//alert(cont);
-		document.write("numero:"+ contador+"<br>")
+		document.write("numero:"+cont)
 
 
 	}
+
+	
 	
 
 	
