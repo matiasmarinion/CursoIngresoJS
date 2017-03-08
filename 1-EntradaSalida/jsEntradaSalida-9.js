@@ -10,7 +10,7 @@ function MostrarAumento()
 	sueldo=document.getElementById('sueldo').value;
 	suledo=parseInt(sueldo);
 	resultado=parseInt(resultado);
-	sueldo=100;
+	sueldo=sueldo+1;
 	resultado=sueldo*1.10;
     document.getElementById('resultado').value=resultado;
 

@@ -11,7 +11,7 @@ numeroUno=parseInt(numeroUno);
 numeroDos=parseInt(numeroDos);
 
 
-alert(numeroUno+numeroDos);
+alert("la suma es "+ (numeroUno+numeroDos));
 
 }
 
